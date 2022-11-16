@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479651499096",
+    "project_id": "nbalive-ea72a",
+    "storage_bucket": "nbalive-ea72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479651499096:android:0c1b8e46f055d31ba90e2d",
+        "android_client_info": {
+          "package_name": "com.example.nbalive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479651499096-0cdt87lbdjbdakoo8vbvumnmomjpbfle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfahGW-0DpWaxNE1rvdB9NkRH3ef_qWKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479651499096-0cdt87lbdjbdakoo8vbvumnmomjpbfle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
